@@ -1,6 +1,6 @@
 # Overview
 
-The Breast Cancer Diagnosis Prediction Tool is a comprehensive Python program designed to predict the classification of breast tumors as benign or malignant using machine learning techniques. This tool utilizes a logistic regression model, allowing for exploratory data analysis, data visualization, model training, evaluation, and prediction based on user inputs.
+The BreastCancer Diagnosis Prediction Tool is a comprehensive Python program designed to predict the classification of breast tumors as benign or malignant using machine learning techniques. This tool utilizes a logistic regression model, allowing for exploratory data analysis, data visualization, model training, evaluation, and prediction based on user inputs.
 
 # Features
 
